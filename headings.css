@@ -1,0 +1,34 @@
+body p {
+    color: #12115B;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+}
+h1 {
+    color: #8E0961;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    font-style: normal;
+}
+nav {
+    color: #F6A573;
+    font-style: normal;
+    font-variant: normal;
+    font-size: medium;
+    -webkit-box-shadow: 0px 0px 5px;
+    box-shadow: 0px 0px 5px;
+}
+.active {
+  color: #AA0606;
+}
+menu .active {
+  color: #AA0606; 
+}
+body strong {
+    color: #8E0959;
+    font-size: xx-large;
+    text-align: center;
+    position: absolute;
+    top: 1.5cm;
+    font-weight: bolder;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}

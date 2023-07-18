@@ -1,0 +1,31 @@
+@charset "utf-8";
+body {
+}
+body h2 {
+    color: #DB835B;
+}
+body strong {
+    color: #8E0959;
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    position: absolute;
+    top: 1.5cm;
+}
+nav {
+    color: #F6A573;
+    text-shadow: 0px 0px 0;
+    -webkit-box-shadow: 0px 0px 5px;
+    box-shadow: 0px 0px 5px;
+}
+.active {
+  color: #AA0606;
+}
+menu .active {
+  color: #AA0606; 
+}
+h1 {
+    color: #9C075A;
+    font-size: xx-large;
+}
